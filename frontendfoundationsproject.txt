@@ -1,0 +1,33 @@
+Front End Foundations Final Project
+Now that you have completed the Front End Foundations Course, you should be able to build a complete website using HTML, CSS, JavaScript, jQuery, and Bootstrap. In this project, we will be testing what you have learned. You will be creating a Car Dealership to test your abilities. This project is to be completed outside of the browser, using your IDE, or editor of choice.
+
+Requirements
+HTML
+You will need at least four pages: Home(index), Inventory, About, and Contact Page.
+Each page should have Navigation to and from the page.
+The Inventory list should implement a template to display at least five different vehicles.
+The Home page should incorporate a video that plays when the user enters the page.
+
+CSS/LESS
+All CSS should be written in a LESS file.
+A minimum of three different fonts.
+Each page needs to be styled differently.
+
+JavaScript/jQuery
+Use jQuery to dynamically fill the Inventory table.
+Use jQuery for immediate search results of inventory, and should display message if no results found.
+Ability to calculate tax based on the given vehicle price. (.08% tax)
+
+Bootstrap
+Responsive Site using Bootstraps grid system.
+Implement a responsive Navbar for mobile and tablet use.
+Implement a carousel on the top of Inventory to showcase the cars.
+Tip! When designing your Car Dealership, have a theme in mind. This can include everything from a color scheme to the placement of items on the page. For inspiration view your favorite online stores.
+
+Grading
+Meets all Requirements: 50% of your grade will be based on meeting the requirements.
+Timely Submission: 25% of your grade will be based on having a complete solution on time.
+Style: 25% of your grade will be based on having legible, and well-designed code.
+Be sure to save your solution, and be prepared to share it with your Instructor or Mentor during your next class, or check-in.
+
+Tip! Your Instructor or Mentor may test your program with additional inputs, so be sure to test it thoroughly with different scenarios.
